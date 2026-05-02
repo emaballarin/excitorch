@@ -1,6 +1,6 @@
 attrs>=25.3
 ebtorch>=0.35.1
-matplotlib>=3.10.1
+matplotlib>=3.10.9
 numpy>=2.4.4
 safe_assert>=0.5
 scipy>=1.15.2
