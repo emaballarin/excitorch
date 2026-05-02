@@ -1,4 +1,4 @@
-attrs>=25.3
+attrs>=26.1.0
 ebtorch>=0.35.1
 matplotlib>=3.10.1
 numpy>=2.4.4
