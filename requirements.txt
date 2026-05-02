@@ -1,5 +1,5 @@
 attrs>=25.3
-ebtorch>=0.30.3
+ebtorch>=0.35.1
 matplotlib>=3.10.1
 numpy>=2.1.3
 safe_assert>=0.5
