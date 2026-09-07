@@ -3,6 +3,6 @@ ebtorch>=0.35.1
 matplotlib>=3.11.1
 numpy>=2.5.2
 safe_assert>=0.5
-scipy>=1.18.0
+scipy>=1.18.1
 torch>=2.14.0
 tqdm>=4.70.0
