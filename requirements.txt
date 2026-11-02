@@ -4,5 +4,5 @@ matplotlib>=3.11.2
 numpy>=2.5.4
 safe_assert>=0.5
 scipy>=1.18.1
-torch>=2.14.1
+torch>=2.15.0
 tqdm>=4.70.1
